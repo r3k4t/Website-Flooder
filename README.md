@@ -14,9 +14,8 @@ This  program is build on python.This python project can attack website.Automati
 
 <ul>
 <li>
-<li>Python<li>
-<li>Figlet<li>
-</li>
+<li>Python</li>
+<li>Figlet</li>
 </ul>
 
 ### Getting started ###
