@@ -7,7 +7,7 @@ print "Author  :  Rahat Khan Tusar(RKT)"
 print
 print "Github  : https://github.com/r3k4t "
 print 
-print "Information :  Use  vpn and tor network.Be anonymous.Be secure."
+print "Information :  Use  vpn and tor network.Be anonymous.Be secure.Be Coder"
 print
 ip = raw_input("Target Ip/Url :")
 print 
